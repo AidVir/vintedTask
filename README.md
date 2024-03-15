@@ -1,4 +1,4 @@
-# Backend Backend Homework Assignment
+# Backend Homework Assignment
 
 1) To run the application, simply go to vintedTask/src/com/aidas and type **java -jar vintedTask.jar input.txt** or any other text file instead of input.txt
 
